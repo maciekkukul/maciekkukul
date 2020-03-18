@@ -1,0 +1,9 @@
+deowoo tico 1.2 150000 1998 manualna 
+seat ibiza 1.6 80000 206 automatyczna 
+volkswagen passat 1.8 120000 2010 manualna 
+mercedes benz 2.2 95000 2012 automatyczna 
+audi a4 2.6 70000 2017 automatyczna 
+toyota rav4 2.8 115000 2007 automatyczna 
+honda civic 2 65000 2015 manualna 
+suzuki swift 1.4 55000 2016 manualna 
+bughatti chiron 8 20000 2019 automatyczna 
